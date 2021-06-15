@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006470986560",
+    "project_id": "application-with-firestore",
+    "storage_bucket": "application-with-firestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006470986560:android:767af972ae8b4d8f5f18a5",
+        "android_client_info": {
+          "package_name": "com.uaguria.applicationwithfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006470986560-1ih9glfikhoj12tl8hhk7iv9gutmv6ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhXIHRdDceDDwSgOPdDSWBgHAbCZ9VuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006470986560-1ih9glfikhoj12tl8hhk7iv9gutmv6ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
